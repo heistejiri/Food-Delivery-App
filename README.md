@@ -1,3 +1,1 @@
-# Food-Delivery-App
- 
-Project readme is loading
+# Food Delivery App
